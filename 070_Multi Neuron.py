@@ -16,7 +16,7 @@ weights = [[-3.4, 1.4, 0.8, 2.9, 2.4, -1.6, 0.6, 2.2, 5.6, 1.5],
            [6.0, 6.2, 6.6, 6.8, 7.0, 7.2, 7.4, 7.6, 7.8, 8.0]]
 
 # inisialisasi bias
-# jumlah bias sama dengan jumlah neuron, yaitu 5
+# jumlah bias dan jumlah neuron sama, yaitu 5
 bias = [1.4, 4, 2.7, -5.4, 7.2]
 
 # penghitungan output
